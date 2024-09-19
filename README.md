@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Florian
-- 🌱 I’m currently learning Java 🙂
+- 🌱 I’m currently leaerning Typescript
 - 😄 Pronouns: He
 
 <!---
