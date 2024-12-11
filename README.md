@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Florian
-- 🌱 I’m currently leaerning Typescript
+- 🌱 I’m currently leaerning Typescript and a bit c#
 - 😄 Pronouns: He
 
 <!---
