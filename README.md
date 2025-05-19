@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Florian
-- 🌱 I’m currently leaerning Typescript and a bit c#
+- 🧠 knowledge in typescript, javascript, python, Commodore BASIC
+- 🌱 I’m currently leaerning a bit c#
 - 😄 Pronouns: He
 
 <!---
