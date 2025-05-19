@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Florian
+- 😄 Pronouns: He
 - 🧠 knowledge in typescript, javascript, python, Commodore BASIC
 - 🌱 I’m currently leaerning a bit c#
-- 😄 Pronouns: He
+
 
 <!---
 Florian846/Florian846 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
