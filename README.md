@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Florian
 - 😄 Pronouns: He
 - 🧠 knowledge in typescript, javascript, python, Commodore BASIC
-- 🌱 I’m currently leaerning a bit c# and 6502 ASM
 
 
 <!---
